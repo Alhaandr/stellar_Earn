@@ -61,6 +61,7 @@ governance change is limited to files inside this `Governance/` folder.
 - [Code of Conduct incident reporting](COC_REPORTING.md): reporting channels, process, confidentiality, and appeals. (Closes #2550)
 - [Branching strategy](BRANCHING_STRATEGY.md): branch types, naming conventions, flow, and cleanup rules. (Closes #2562)
 - [Code of Conduct](CODE_OF_CONDUCT.md): Contributor Covenant baseline — expected behaviour in project spaces, scope, and enforcement through the CoC Committee. (Closes #2549)
+- [Quorum and voter eligibility](QUORUM.md): defines active voters, inactive-member treatment, recusal, and quorum. (Closes #2529)
 
 ## How to contribute to governance
 
